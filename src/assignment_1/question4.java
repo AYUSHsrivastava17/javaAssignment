@@ -1,6 +1,7 @@
 package assignment_1;
 
 public class question4 {
+
     public static void main( String[] args ) {
         ClassThree obj = new ClassThree(1);
         System.out.println("\n");
